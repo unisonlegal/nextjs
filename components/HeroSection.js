@@ -4,7 +4,7 @@ export default function HeroSection() {
     return (
 
         <div>
-            <p>Hello Worlddfdfd</p>
+            <h1>Is this ok </h1>
         </div>
     )
 }
