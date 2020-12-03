@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function HeroSection() {
     return (
-        <h>Hello from Hero Section</h>
-
+        <h1>This is a hero section</h1>
+        
     )
 }
