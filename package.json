@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "autoprefixer": "^10.0.4",
+    "@fortawesome/fontawesome-free": "^5.15.0",
     "next": "^10.0.2",
     "postcss": "^8.1.10",
     "react": "^17.0.1",
